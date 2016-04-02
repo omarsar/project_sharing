@@ -1,6 +1,9 @@
 # Security Project Description
 
-## A. Basic API
+Details of the semester project for Service Security:
+- [A: Basic File Store API](##A.-Basic-File-Store-API)
+
+## A. Basic File Store API
 
 This week your team will create the beginnings of an API to perform your service
 
