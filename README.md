@@ -1,7 +1,7 @@
 # Security Project Description
 
 Details of the semester project for Service Security:
-- [A: Basic File Store API](##A.-Basic-File-Store-API)
+- [A: Basic File Store API](#a-basic-file-store-api)
 
 ## A. Basic File Store API
 
