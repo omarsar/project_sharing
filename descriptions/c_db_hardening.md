@@ -6,7 +6,7 @@ Using a database solves many of our security problems and also introduces new pr
   - Add a `set_allowed_columns` method we saw in class to restrict which attributes of your models can be changed by a mass assignment from user input
   - Discuss with your teammates whether the encrypted fields you will create this week can be mass assigned or not
 2. Prevent SQL injection attacks by using literalization and query parameterization
-  - Identify all routes where you might manually creating SQL queries
+  - Identify all routes where you might manually be creating SQL queries
   - At least use literalization to resolve all queries
   - Find at least one place where you will use query parameterization (bound statements) to create a SQL query that does not contain any values.
 3. UUIDs (optional)
