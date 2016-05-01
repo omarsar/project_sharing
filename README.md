@@ -12,3 +12,4 @@ We will go through the process of developing a secure application that:
 - [B: Relational Databases and API Testing](descriptions/b_db_testing.md)
 - [C: Database Hardening: DB Vulnerabilities and Encryption](descriptions/c_db_hardening.md)
 - [D: Secure User Accounts: Passwords and Associations](descriptions/d_secure_accounts.md)
+- [E: Deployed API + Interface Client](descriptions/e_interface_client.md)
