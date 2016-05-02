@@ -1,6 +1,6 @@
 # E. Deployed API and Interface Client
 
-This week are are deploying our APIs into live production and building up our interface as a web client application. We are interested in seeing if we can get users to login for now! Take a look at the latest code at:
+This week we are deploying our APIs into live production and building up our interface as a web client application. We are interested in seeing if we can get users to login for now! Take a look at the latest code at:
   - [Deployed API](https://github.com/ISS-Security/configshare)
   - [Interface Client](https://github.com/ISS-Security/configshare-app)
 
@@ -38,5 +38,5 @@ This week are are deploying our APIs into live production and building up our in
 5. IMPORTANT: do some research on how Rack cookies with a 'secret' are encoded
   - See the [Ruby documentation](http://www.rubydoc.info/github/rack/rack/Rack/Session/Cookie) to see how to specify a 'secret' to add security to encoded cookies
   - Do some research (maybe look at the source code for Rack) to see how the 'secret' is used to encode cookies.
-  - Add a description of how secured cookies are encoded as a github issues.
+  - Add a description of how secured cookies are encoded as a github issue.
   - Also add to the issue any thoughts on vulnerabilities of this method.
